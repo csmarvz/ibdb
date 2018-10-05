@@ -1,0 +1,14 @@
+{
+ "burgers": [
+	 {
+	  "id": 1,
+	  "name": "Helvti Dinner",
+	  "rating": 10
+	 },
+	 {
+	  "id": 2,
+	  "name": "Burger King",
+	  "rating": 0
+	 }
+ ]
+}
